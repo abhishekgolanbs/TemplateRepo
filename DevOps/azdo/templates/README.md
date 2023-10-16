@@ -1,0 +1,1 @@
+All the azure DevOps template files are kept in this folder.
